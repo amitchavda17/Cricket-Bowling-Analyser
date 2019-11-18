@@ -1,0 +1,40 @@
+#home{
+    background-color: rgba(169, 198, 214, 0.726);
+}
+
+label{
+    font-weight: bolder;
+    padding: 2px;
+}
+
+#login{
+    background-color: rgb(141, 144, 144);
+}
+
+h3{
+    color: rgb(228, 227, 227);
+    text-align: center;
+
+}
+
+#radio-page{
+    position: relative;
+    left: 20%;
+
+}
+
+.speedpad{
+    padding-right: 18px;
+}
+
+.lengthpad{
+    padding-right: 11px;
+}
+.linepad{
+    padding-right: 35px;
+}
+
+#whatstoday{
+    position: relative;
+left: 6%;
+}
